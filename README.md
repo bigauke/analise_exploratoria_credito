@@ -35,14 +35,14 @@ Minha jornada será guiada pelas poderosas ferramentas do universo Python: 🐍
 
 *   **Escolaridade Importa:** Clientes com maior escolaridade tendem a ter uma taxa de default menor. Isso pode ser usado para refinar modelos de risco! 🎓
     
-    ![Gráfico de Barras - Default por Escolaridade](https://i.imgur.com/qDqfoBA.png)
+    ![Gráfico de Barras - Default por Escolaridade](https://i.imgur.com/TG1mSH3.png)
     
 *   **Histórico de Pagamentos é Chave:** O comportamento de pagamento anterior é um forte indicador de futuro default. Isso sugere a importância de desenvolver sistemas de monitoramento em tempo real! ⌚
     
-    ![Gráfico de Barras - Contagem de Defaults](https://i.imgur.com/Y7zXeCT.png)
+    ![Gráfico de Barras - Contagem de Defaults](https://i.imgur.com/KchZpdD.png)
 *   **Correlações Reveladoras:** As faturas e pagamentos anteriores conversam entre si. 🤯 Isso pode ser usado para detectar anomalias e fraudes.
     
-    ![Mapa de Calor - Correlação](https://i.imgur.com/h0S5S6o.png)
+    ![Mapa de Calor - Correlação](https://i.imgur.com/vmii0Dw.png)
 
 **🔥  Junte-se à Aventura! 🔥**
 
@@ -52,6 +52,6 @@ Sua contribuição é mais que bem-vinda! Tem alguma ideia para melhorar a anál
 
 **👨‍💻 Sobre Mim:**
 
-Eu sou [Seu Nome], um aspirante a Cientista de Dados apaixonado por transformar dados em insights acionáveis. 🚀 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.
+Eu sou Antonio Daniel, um aspirante a Cientista de Dados apaixonado por transformar dados em insights acionáveis. 🚀 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.
 
 **#DataScience #MachineLearning #CreditRisk #AnáliseExploratória #Python #Finanças #Banco #Modernização #Dados #VisualizaçãoDeDados #DataDriven #UCI #Kaggle #GitHub**
